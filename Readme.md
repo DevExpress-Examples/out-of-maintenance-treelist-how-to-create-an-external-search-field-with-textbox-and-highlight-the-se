@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/SearchHighlight/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/SearchHighlight/Controllers/HomeController.vb))
+* [script.js](./CS/SearchHighlight/Scripts/script.js) (VB: [script.js](./VB/SearchHighlight/Scripts/script.js))
+* **[_TreeListPartial.cshtml](./CS/SearchHighlight/Views/Home/_TreeListPartial.cshtml)**
+* [Index.cshtml](./CS/SearchHighlight/Views/Home/Index.cshtml)
+* [_Layout.cshtml](./CS/SearchHighlight/Views/Shared/_Layout.cshtml)
+<!-- default file list end -->
 # TreeList - How to create an external search field with TextBox and highlight the search text
 
 
