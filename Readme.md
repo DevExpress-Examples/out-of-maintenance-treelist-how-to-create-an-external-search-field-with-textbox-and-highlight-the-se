@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # TreeList - How to create an external search field with TextBox and highlight the search text
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t532684)**
+**[[Run Online]](https://codecentral.devexpress.com/t532684/)**
 <!-- run online end -->
 
 
