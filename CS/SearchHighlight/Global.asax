@@ -1,1 +1,0 @@
-<%@ Application Codebehind="Global.asax.cs" Inherits="SearchHighlight.MvcApplication" Language="C#" %>
